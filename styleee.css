@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(black.jpeg) no-repeat;
+    background-size: cover ;
+}
+.bax{
+    width: 450px;
+    background: rgb(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color:white;
+    font-family: 'century gothic', sans-serif;
+    
+
+
+}

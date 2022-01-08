@@ -1,0 +1,27 @@
+body{
+    margin: 1;
+    padding: 1;
+    background: url(sen.gif) no-repeat;
+    background-size: cover;
+}
+.box6{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: rgb(85, 83, 182);
+    font-family: 'Century Gothic',sans-serif  ;
+}
+.box7{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: rgb(37, 44, 143);
+    font-family: 'Century Gothic',sans-serif  ;
+
+}
